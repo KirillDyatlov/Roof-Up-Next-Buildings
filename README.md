@@ -39,7 +39,7 @@
 <br>-Бои по системе JRPG
 
 # Что за Roof Up?
-<br>Это моя небольшая серия игр, в которой пока отметилось только 2 полноценных игры:
+Это моя небольшая серия игр, в которой пока отметилось только 2 полноценных игры:
 <ul>
   <li>Roof Up (2019) - псевдо-прототип игры, имеющий в себе 1 уровень и графику, нарисованную в Paint. Данную игру я делал на движке Clickteam Fusion, так как на тот момент даже не умел программировать. Скачать её можно тут на Windows, но я вам не советую...: https://gamejolt.com/games/RoofUpPrizhkiPoKrisham/436015</li>
   <li>Roof Up (2022) - можно сказать полноценная игра, вмещающая в себя 6 уровней из 3 разных режимов. В июле 2025 я доработал эту версию и выпустил что-то типа ее окончательного издания. Доступна она и на Windows, и на Android. Скачать на компы: https://disk.yandex.ru/d/9ZoNAEV29XeU2Q / на телефоны: https://disk.yandex.ru/d/NFs18HT2UsiCRA</li>
@@ -47,7 +47,7 @@
 </ul>
 
 # Скачать её
-<br>GitHub - 
+<br>GitHub - https://github.com/KirillDyatlov/Roof-Up-Next-Buildings/releases
 <br>RuStore - https://www.rustore.ru/catalog/app/com.WaterMedia.RoofUpNextBuildings
 <br>RuMarket - https://store.ruplay.market/app/com.WaterMedia.RoofUpNextBuildings
 <br>Яндекс.Диск https://disk.yandex.ru/d/_nlMfF84EIwI3g
