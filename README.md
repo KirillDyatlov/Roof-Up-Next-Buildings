@@ -50,5 +50,5 @@
 GitHub - https://github.com/KirillDyatlov/Roof-Up-Next-Buildings/releases
 <br>RuStore - https://www.rustore.ru/catalog/app/com.WaterMedia.RoofUpNextBuildings
 <br>RuMarket - https://store.ruplay.market/app/com.WaterMedia.RoofUpNextBuildings
-<br>Яндекс.Диск https://disk.yandex.ru/d/_nlMfF84EIwI3g
-<br>Google Drive - https://drive.google.com/file/d/1vt9npS2hTXPqS6ynpbteKR3Bm0-noamv/view?usp=sharing
+<br>Яндекс.Диск - https://disk.yandex.ru/d/aAgqgnbMUjuzFA
+<br>Google Drive - https://drive.google.com/file/d/18J9xDYR_JXMovMIU7cepNzmBnPNeLaFA/view?usp=sharing
