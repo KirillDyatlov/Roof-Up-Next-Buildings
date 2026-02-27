@@ -51,3 +51,4 @@ GitHub - https://github.com/KirillDyatlov/Roof-Up-Next-Buildings/releases
 <br>RuStore - https://www.rustore.ru/catalog/app/com.WaterMedia.RoofUpNextBuildings
 <br>Яндекс.Диск - https://disk.yandex.ru/d/aAgqgnbMUjuzFA
 <br>Google Drive - https://drive.google.com/file/d/18J9xDYR_JXMovMIU7cepNzmBnPNeLaFA/view?usp=sharing
+<br>Itch.io - https://watermediastudios.itch.io/roof-up-next-buildings-android-edition
